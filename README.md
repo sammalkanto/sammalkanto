@@ -9,3 +9,13 @@
 🔎[Product Preview](https://sammalkanto.github.io/product-preview/)
 
 🃏[NFT Preview](https://sammalkanto.github.io/nft-preview/)
+
+🧾[Order Summary](https://sammalkanto.github.io/order-summary/)
+
+📈[Stats Preview](https://sammalkanto.github.io/stats-preview/)
+
+🏛️[Three Column Preview](https://sammalkanto.github.io/three-column-preview/)
+
+👨🏿[Profile](https://sammalkanto.github.io/profile/)
+
+🎴[Four Card Feature](https://sammalkanto.github.io/four-card-feature/)
